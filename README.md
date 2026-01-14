@@ -24,7 +24,7 @@ This Tableau project demonstrates comprehensive data visualization skills throug
 
 ## 📊 Live Dashboard
 
-[![Tableau Public](https://img.shields.io/badge/View_Interactive_Dashboard-627CFF?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/willie.conway2396/viz/WorldHappinessReport_17379615647750/Story1) ![Preview](https://img.shields.io/badge/Preview-F97316?style=for-the-badge&logo=tableau&logoColor=white)
+[![Tableau Public](https://img.shields.io/badge/📊_View_Interactive_Dashboard-627CFF?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/willie.conway2396/viz/WorldHappinessReport_17379615647750/Story1) ![Preview](https://img.shields.io/badge/Preview-F97316?style=for-the-badge&logo=tableau&logoColor=white)
 ![World Happiness Report Analysis Capstone Project](https://github.com/Willie-Conway/World-Happiness-Report-Analysis-Capstone-Project/blob/3976529beb561628e6633adfd291e17c0d16e553/World-Happiness-Report-Tableau/Screenshots/World%20Happiness%20Report%20Analysis%20-%20Tableau%20Dashboard.gif)
 
 
