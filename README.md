@@ -1,6 +1,9 @@
 # 📊 World Happiness Report Analysis - Tableau Dashboard Project
 
-![SkillUP](https://github.com/Willie-Conway/World-Happiness-Report-Analysis-Capstone-Project/blob/19ab42e39f5dc8c3901206d9ba57ec7611d7e993/World-Happiness-Report-Tableau/Screenshots/SKTedtech.png)
+<p float="left">
+    <img src="https://images.credly.com/size/680x680/images/a7c80aaf-4bbb-420b-bbd5-4eb655b8530b/Business_20Intelligence_20BI_20Analyst_20Professional_20Certificate_20V3.png" width="300" />
+    <img src="https://github.com/Willie-Conway/World-Happiness-Report-Analysis-Capstone-Project/blob/98a709d61422347cc28f95475cac0159cceec435/World-Happiness-Report-Tableau/Screenshots/World%20Happiness%20Report.jpg" width="300" />
+</p>
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6B6B?style=for-the-badge&logo=plotly&logoColor=white)
